@@ -8,7 +8,7 @@
     "start": "yarn upgrade @victorsouzaleal/lbot-api-comandos --silent && node app.js",
     "dev": "node app.js"
   },
-  "author": "Leal",
+  "author": "Shelby Servers Host",
   "license": "MIT",
   "repository": "git+https://wa.me/message/ZYRNMGZS6MCOO1.git",
   "keywords": [
