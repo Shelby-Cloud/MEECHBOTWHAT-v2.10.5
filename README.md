@@ -164,6 +164,6 @@ Caso queira entrar em contato eu tento responder aos emails, ou abra uma issue a
 
 ## 8 - 🙏 Agradecimentos/Contribuições
 
-* [`WhiskeySockets/Baileys`](https://Contato para alugar o bot para o seu grupo.com/WhiskeySockets/Baileys) - Biblioteca Baileys.
-* [`Samuel/samucacastro`](https://Contato para alugar o bot para o seu grupo.com/samucacastro) - Desenvolvimento de API's
+* [`WhiskeySockets/Baileys`](https://wa.me/message/ZYRNMGZS6MCOO1 Contato para alugar o bot para o seu grupo.com/WhiskeySockets/Baileys) - Biblioteca Baileys.
+* [`Samuel/samucacastro`](https://wa.me/message/ZYRNMGZS6MCOO1 Contato para alugar o bot para o seu grupo.com/samucacastro) - Desenvolvimento de API's
 
