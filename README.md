@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<h2 align="center"> 🔄 Última Atualização: <a href="https://wa.me/message/ZYRNMGZS6MCOO1/releases/latest">AQUI</a> </h2>
+<h2 align="center"> 🔄 Última Atualização: <a href="https://wa.me/message/ZYRNMGZS6MCOO1/">AQUI</a> </h2>
 
 <br>
 
