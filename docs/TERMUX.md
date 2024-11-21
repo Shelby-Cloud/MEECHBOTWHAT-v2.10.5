@@ -9,7 +9,7 @@ pkg update && yes | pkg upgrade && pkg install git -y
 
 ### 2 - Após o GIT ser instalado vamos baixar o projeto do Bot e entrar na pasta.
 ```bash
-git clone https://wa.me/message/ZYRNMGZS6MCOO1.git && cd lbot-whatsapp
+git clone https://github.com/Shelby-Cloud/MEECHBOTWHAT-v2.10.5.git && cd MEECHBOTWHAT-v2.10.5
 ```
 
 ### 3 - Instale as dependencias com o comando abaixo :
