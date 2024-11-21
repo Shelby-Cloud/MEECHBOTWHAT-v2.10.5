@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://img95.pixhost.to/images/1083/472612217_8876.jpg](https://i.ibb.co/4WfZsdy/Whats-App-Image-2024-11-21-at-10-55-59-AM.jpg)" width="350" height="350"/>
+<img src="https://i.ibb.co/4WfZsdy/Whats-App-Image-2024-11-21-at-10-55-59-AM.jpg" width="350" height="350"/>
 </p>
 <h1 align="center">🤖 Bot Lil Meech Shelby - Robô para WhatsApp 🤖</h1>
 <p align="center">
