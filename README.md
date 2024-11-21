@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">🤖 Bot Lil Meech Shelby - Robô para WhatsApp 🤖</h1>
 <p align="center">
-<a href="https://wa.me/message/ZYRNMGZS6MCOO1/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp"><img src="https://wa.me/message/ZYRNMGZS6MCOO1Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp?label=qualidade&color=#79C83D" alt="Shelby servers Host" /></a>
+<a href="https://wa.me/message/ZYRNMGZS6MCOO1/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp"><img src="https://wa.me/message/ZYRNMGZS6MCOO1/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp?label=qualidade&color=#79C83D" alt="Shelby servers Host" /></a>
 </p>
 <br>
 
@@ -25,7 +25,7 @@
 
 ### 🖥️ Windows/Linux :
 
-Faça o download da última versão lançada no seguinte link: https://wa.me/message/ZYRNMGZS6MCOO1/releases/latest , extraia o zip e entre na pasta do bot para os passos seguintes.
+Faça o download da última versão lançada no seguinte link: https://wa.me/message/ZYRNMGZS6MCOO1 , extraia o zip e entre na pasta do bot para os passos seguintes.
 
 Abra o prompt de comando (terminal) **DENTRO DA PASTA DO PROJETO** e execute os comandos abaixo :
 
