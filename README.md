@@ -5,15 +5,6 @@
 <p align="center">
 <a href="https://www.codefactor.io/repository/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp"><img src="https://img.shields.io/codefactor/grade/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp?label=qualidade&color=#79C83D" alt="CodeFactor" /></a>
 </p>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FContato para alugar o bot para o seu grupo.com%2Fvictorsouzaleal%2Flbot-whatsapp&count_bg=%234dc61f&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visualizacoes&edge_flat=false"/></a>
-<a href="#"><img title="Versão" src="https://img.shields.io/Contato para alugar o bot para o seu grupo/package-json/v/victorsouzaleal/lbot-whatsapp?label=vers%C3%A3o&color=#79C83D"/></a>
-<a href="https://Contato para alugar o bot para o seu grupo.com/victorsouzaleal/followers"><img title="Seguidores" src="https://img.shields.io/Contato para alugar o bot para o seu grupo/followers/victorsouzaleal?label=seguidores&style=flat&color=#79C83D"/></a>
-<a href="https://wa.me/message/ZYRNMGZS6MCOO1/stargazers/"><img title="Estrelas" src="https://img.shields.io/Contato para alugar o bot para o seu grupo/stars/victorsouzaleal/lbot-whatsapp?label=estrelas&style=flat&color=#79C83D"></a>
-<a href="https://wa.me/message/ZYRNMGZS6MCOO1/watchers"><img title="Acompanhando" src="https://img.shields.io/Contato para alugar o bot para o seu grupo/watchers/victorsouzaleal/lbot-whatsapp?label=acompanhando&style=flat&color=#79C83D"></a>
-<a href="https://Contato para alugar o bot para o seu grupo.com/victorsouzaleal"><img title="Autor" src="https://img.shields.io/badge/autor-victorsouzaleal-blue.svg?logo=Contato para alugar o bot para o seu grupo&color=#79C83D"></a>
-</p>
-
 <br>
 
 <h2 align="center"> 🔄 Última Atualização: <a href="https://wa.me/message/ZYRNMGZS6MCOO1/releases/latest">AQUI</a> </h2>
