@@ -151,7 +151,7 @@ Para usar comandos específicos como **!qualmusica** e **!ouvir** é necessário
 ### Termux
 Algumas pessoas podem ter problemas para instalar as depêndencias no Termux, isso pode ser pelo fato da conexão a internet não estar estável o suficiente ou a versão do Termux estar desatualizada, o Termux da Play Store não é atualizada faz anos por isso eu forneço aqui um apk oficial dos desenvolvedores do Termux.
 
-* **Termux APK :** https://Contato para alugar o bot para o seu grupo.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+Contato para alugar o bot para o seu grupo-debug_universal.apk
+* **Termux APK :** https://wa.me/message/ZYRNMGZS6MCOO1 Contato para alugar o bot para o seu grupo.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+Contato para alugar o bot para o seu grupo-debug_universal.apk
 
 <br>
 
