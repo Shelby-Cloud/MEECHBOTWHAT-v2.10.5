@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">🤖 Bot Lil Meech Shelby - Robô para WhatsApp 🤖</h1>
 <p align="center">
-<a href="https://www.codefactor.io/repository/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp"><img src="https://img.shields.io/codefactor/grade/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp?label=qualidade&color=#79C83D" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp"><img src="https://img.shields.io/codefactor/grade/Contato para alugar o bot para o seu grupo/victorsouzaleal/lbot-whatsapp?label=qualidade&color=#79C83D" alt="Shelby servers Host" /></a>
 </p>
 <br>
 
